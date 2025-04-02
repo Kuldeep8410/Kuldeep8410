@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h1 align="center">HEY BROOO! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
 <p align="center"> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="140px" width="140px"> 
    
