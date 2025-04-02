@@ -1,13 +1,14 @@
 
 <h1 align="center">HEY BROOO! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
-<p align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM2MjU5NjgsIm5iZiI6MTc0MzYyNTY2OCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAyVDIwMjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5YmU4ODczZmQ4ZjYzM2U1MzI3ZmY4Yzc4NTFjNGJiMmYwOTBjMzJkMjRhNGZmNTVjMWE2OTFlZjJhYWE2ZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7TRcfUDRvpVWS3N3MaVHewElPqoO9zefxfFQHEEsclg" height="140px" width="140px"> 
+<p align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM2MjU5NjgsIm5iZiI6MTc0MzYyNTY2OCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAyVDIwMjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5YmU4ODczZmQ4ZjYzM2U1MzI3ZmY4Yzc4NTFjNGJiMmYwOTBjMzJkMjRhNGZmNTVjMWE2OTFlZjJhYWE2ZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7TRcfUDRvpVWS3N3MaVHewElPqoO9zefxfFQHEEsclg" height="140px" width="140px"> <br />
+<img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png">
    
 ## :wave:  About Me 
-<a href="https://twitter.com/Sachinanand_99" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/sachin-anand-2411a9256/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="right"></a>
+<img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="right">
 👩‍🎓 Hey! I'm Kuldeep Sharma, a 18 year old aspiring Software Developer.
 
-👩‍💻 Nowadays, I’m learning Web Development. I regularly practice DSA questions on [**LeetCode**]([https://leetcode.com/u/Kuldeep_1Sharma/]) and always up for quick coding brainstorming sessions!
+👩‍💻 Nowadays, I’m learning Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/u/Kuldeep_1Sharma/) and always up for quick coding brainstorming sessions!
 <br> 
 
 ## 🛠 &nbsp;Tech Stack
