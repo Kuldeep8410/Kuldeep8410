@@ -6,7 +6,7 @@
    
 ## :wave:  About Me 
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="right">
-👩‍🎓 Hey! I'm Kuldeep Sharma, a 18 year old aspiring Software Developer.
+👩‍🎓 Hey! I'm Kuldeep Sharma,aspiring Software Developer.
 
 👩‍💻 Nowadays, I’m learning Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/u/Kuldeep_1Sharma/) and always up for quick coding brainstorming sessions!
 <br> 
